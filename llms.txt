@@ -1,0 +1,51 @@
+# Geotecnia1 — Chillán
+
+> Geotechnical engineering services in Chillán, Chile.
+
+## Services
+- [Aislacion Sismica](https://chillan.geotecnia1.xyz/aislacion-sismica/)
+- [Anclajes](https://chillan.geotecnia1.xyz/anclajes/)
+- [Calicatas](https://chillan.geotecnia1.xyz/calicatas/)
+- [Cbr Vial](https://chillan.geotecnia1.xyz/cbr-vial/)
+- [Cimentaciones](https://chillan.geotecnia1.xyz/cimentaciones/)
+- [Columnas Grava](https://chillan.geotecnia1.xyz/columnas-grava/)
+- [Densidad Cono Arena](https://chillan.geotecnia1.xyz/densidad-cono-arena/)
+- [Ensayo Cpt](https://chillan.geotecnia1.xyz/ensayo-cpt/)
+- [Ensayos Proctor](https://chillan.geotecnia1.xyz/ensayos-proctor/)
+- [Estabilidad Taludes](https://chillan.geotecnia1.xyz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://chillan.geotecnia1.xyz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://chillan.geotecnia1.xyz/excavaciones-subterraneo/)
+- [Exploracion](https://chillan.geotecnia1.xyz/exploracion/)
+- [Geotecnia Vial](https://chillan.geotecnia1.xyz/geotecnia-vial/)
+- [Granulometria](https://chillan.geotecnia1.xyz/granulometria/)
+- [Inyecciones](https://chillan.geotecnia1.xyz/inyecciones/)
+- [Laboratorio In Situ](https://chillan.geotecnia1.xyz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://chillan.geotecnia1.xyz/laboratorio-lab/)
+- [Licuefaccion](https://chillan.geotecnia1.xyz/licuefaccion/)
+- [Limites Atterberg](https://chillan.geotecnia1.xyz/limites-atterberg/)
+- [Losas Fundacion](https://chillan.geotecnia1.xyz/losas-fundacion/)
+- [Masw](https://chillan.geotecnia1.xyz/masw/)
+- [Mejoramiento](https://chillan.geotecnia1.xyz/mejoramiento/)
+- [Microzonificacion Sismica](https://chillan.geotecnia1.xyz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://chillan.geotecnia1.xyz/monitoreo-excavaciones/)
+- [Muros Contencion](https://chillan.geotecnia1.xyz/muros-contencion/)
+- [Pavimento Flexible](https://chillan.geotecnia1.xyz/pavimento-flexible/)
+- [Pavimento Rigido](https://chillan.geotecnia1.xyz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://chillan.geotecnia1.xyz/permeabilidad-in-situ/)
+- [Pilotes](https://chillan.geotecnia1.xyz/pilotes/)
+- [Refraccion Sismica](https://chillan.geotecnia1.xyz/refraccion-sismica/)
+- [Resistividad](https://chillan.geotecnia1.xyz/resistividad/)
+- [Sismica](https://chillan.geotecnia1.xyz/sismica/)
+- [Sondajes Spt](https://chillan.geotecnia1.xyz/sondajes-spt/)
+- [Taludes](https://chillan.geotecnia1.xyz/taludes/)
+- [Triaxial](https://chillan.geotecnia1.xyz/triaxial/)
+- [Tuneles Suelo Blando](https://chillan.geotecnia1.xyz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://chillan.geotecnia1.xyz/vibrocompactacion/)
+- [Zapatas](https://chillan.geotecnia1.xyz/zapatas/)
+
+## Contact
+- Website: https://chillan.geotecnia1.xyz/
+
+## About
+This site provides geotechnical engineering services in Chillán, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
